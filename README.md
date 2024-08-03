@@ -4,8 +4,10 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" />
 
+<h1> 👨🏽‍💻 &nbsp;About Me</h1>
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" />
 <div align="left">
   <br />
   <p>
@@ -33,300 +35,158 @@
  <table>
   <tr>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-      height="30"
-      alt="javascript logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-      height="30"
-      alt="typescript logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="35" alt="dotnetcore logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-      height="30"
-      alt="react logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="35" alt="dot-net logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-      height="30"
-      alt="html5 logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="azure logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-      height="30"
-      alt="css3 logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="35" alt="salesforce"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      height="30"
-      alt="python logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="googlecloud logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-      height="30"
-      alt="csharp logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" alt="angularjs logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
-      height="30"
-      alt="anaconda logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
-      height="30"
-      alt="android logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vuejs logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
-      height="30"
-      alt="androidstudio logo"
-    />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
-      height="30"
-      alt="angularjs logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"
-      height="30"
-      alt="apache logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-      height="30"
-      alt="bootstrap logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
-      height="30"
-      alt="dart logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
   </td>
 </tr>
 <tr>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
-      height="30"
-      alt="django logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
-      height="30"
-      alt="dot-net logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
-      height="30"
-      alt="dotnetcore logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" alt="npm logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"
-      height="30"
-      alt="electron logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-      height="30"
-      alt="figma logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
-      height="30"
-      alt="flutter logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" alt="oracle logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-      height="30"
-      alt="github logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-      height="30"
-      alt="git logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="visualstudio logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
-      height="30"
-      alt="go logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
-      height="30"
-      alt="intellij logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="35" alt="jest logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
-      height="30"
-      alt="kotlin logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="35" alt="jenkins logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-      height="30"
-      alt="materialui logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="35" alt="selenium logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg"
-      height="30"
-      alt="moodle logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="35" alt="mocha logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-      height="30"
-      alt="mongodb logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="35" alt="jira logo"  />
+  <img width="12" />
   </td>
 </tr>
 <tr>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg"
-      height="30"
-      alt="msdos logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="35" alt="trello logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-      height="30"
-      alt="mysql logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="35" alt="slack logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-      height="30"
-      alt="nodejs logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-      height="30"
-      alt="npm logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" alt="kubernetes logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"
-      height="30"
-      alt="opencv logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="35" alt="webpack logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg"
-      height="30"
-      alt="phpstorm logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="redis logo"  />
+  <img width="12" />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-      height="30"
-      alt="redux logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="35" alt="graphql logo"  />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
-      height="30"
-      alt="redis logo"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"/>
   </td>
   <td>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
-      height="30"
+      height="35"
       alt="rust"
     />
   </td>
   <td>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"
-      height="30"
+      height="35"
       alt="socketio logo"
     />
   </td>
   <td>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"
-      height="30"
+      height="35"
       alt="swift logo"
     />
   </td>
   <td>
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-      height="30"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg"
+      height="35"
       alt="vscode logo"
     />
   </td>
   <td>
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-      height="30"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
+      height="35"
       alt="vuejs logo"
     />
   </td>
   <td>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg"
-      height="30"
+      height="35"
       alt="webstorm logo"
     />
   </td>
