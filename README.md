@@ -9,16 +9,16 @@
 <div align="left">
   <br />
   <p>
-    I've spent 8 years honing my skills in full-stack development and blockchain technology. Beginning with systems development, I focused on front-end and back-end expertise. My journey led me deep into blockchain, specializing in decentralized applications and smart contracts.
-  </p>
+    With over 10 years of experience in analysis, design, testing and implementing front-end & back-end architectures that have resulted in several projects used by millions. Got Involved in wide range of projects from E-commerce websites to Enterprise-level application.
 
-  <p>
-    My passion is bridging traditional software with blockchain. I collaborate with diverse teams—designers, researchers, data scientists—to deliver impactful solutions, from optimizing smart contracts to crafting robust user interfaces.
   </p>
-
+  
+  <p>  I collaborate with diverse team members such as product manager, QA engineers, designers to deliver impactful solutions, from frontend user interfaces to backend server-side components.
+  </p>  
+    I am orienting backend-heavy with c# language, along with popular frameworks such as ASP.NET Core, ASP.NET MVC, Blazor, Maui and so forth.
+    What's more, I have worked extensively with Node.js, Nest, and Laravel. 
+    On the frontend side, I specialized in Angular, React, Vue, next and so on.
   <p>
-    I specialize in AI algorithms—machine learning, NLP, computer vision—using TensorFlow and PyTorch. My work includes data preprocessing, model training, and performance evaluation for effective AI solutions.
-  </p>
 </div>
 
 <div align="center">
@@ -352,8 +352,8 @@
 <!-- activity graph heroku-app end -->
 
 <div align="center">
- <a href="https://github.com/undyingkevin007?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=undyingkevin007&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
- <a href="https://github.com/undyingkevin007?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=undyingkevin007&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+ <img src="https://github-readme-stats-one-bice.vercel.app/api?username=undyingkevin007&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"   width="48%" alt="@Goblin's github-readme-stats"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undyingkevin007&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Goblin's github-readme-streak-stats"/>
 </div>
 
 
