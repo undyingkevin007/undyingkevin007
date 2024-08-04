@@ -225,8 +225,8 @@
 <!-- activity graph heroku-app end -->
 
 <div align="center">
- <img src="https://github-readme-stats-one-bice.vercel.app/api?username=undyingkevin007&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"   height="250" alt="@Goblin's github-readme-stats"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undyingkevin007&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="250" alt="@Goblin's github-readme-streak-stats"/>
+ <img src="https://github-readme-stats-one-bice.vercel.app/api?username=undyingkevin007&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"   height="200" alt="@Goblin's github-readme-stats"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undyingkevin007&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="200" alt="@Goblin's github-readme-streak-stats"/>
 </div>
 
 
